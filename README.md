@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashraf%20Reda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Lead%20%7C%20Twilight%20%26%20Themes%20%40SALLA&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashraf%20Reda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Lead%20at%20Salla%20-%20Twilight%20and%20Themes&descSize=16&descAlignY=52" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -16,7 +16,7 @@
 ```javascript
 const ashraf = {
     location: "Remote, Egypt",
-    role: "Frontend Engineer | Tech Lead @sallaapp",
+    role: "Frontend Engineer | Tech Lead @ sallaapp",
     focus: ["Web Components", "React", "Schema-driven UIs", "SDK Integrations"],
     building: "Scalable form systems & component libraries",
     strengths: ["Bridging design ↔ engineering", "Dual-mode component architecture"],
